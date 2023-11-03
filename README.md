@@ -21,6 +21,8 @@
   <hr/>
   <br/>
   <img src="https://i.imgur.com/edTkyMq.jpg" />
+  <hr/>
+  <br/>
   <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <picture>
