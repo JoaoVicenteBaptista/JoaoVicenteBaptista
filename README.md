@@ -22,6 +22,7 @@
   
   <br/>
   <hr/>
+  <img src="https://i.imgur.com/edTkyMq.jpg" />
 </div>
 <!--
 **JoaoVicenteBaptista/JoaoVicenteBaptista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
