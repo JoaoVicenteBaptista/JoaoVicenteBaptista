@@ -1,6 +1,6 @@
-### Hi there 👋
+
 <div align="center">
-  
+  ### Hi there 👋
   <h2 align="center"> My Contacts </h2>
   <div align="center">
     <a href="https://www.linkedin.com/in/joaobaptista/" target="_blank">
