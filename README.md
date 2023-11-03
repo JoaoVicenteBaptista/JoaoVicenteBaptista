@@ -15,7 +15,7 @@
   <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
     <br/>
   <div align="center">
-      <img src="https://skillicons.dev/icons?i=azure,aws,vscode,github,git,gherkin,jenkins,kubernetes,kafka,docker" />
+      <img src="https://skillicons.dev/icons?i=azure,aws,vscode,github,git,gherkin,jenkins,kubernetes,kafka,docker,vercel" />
       <img src="https://skillicons.dev/icons?i=cs,dotnet,python,javascript,html,css,mysql,postgres,rabbitmq,redis" /><br>
   </div>
   <hr/>
