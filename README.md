@@ -34,7 +34,6 @@
   <h2 align="center">⚡ Stats ⚡</h2>
   <br>
   <div align=center>
-
     <img width=390 src="https://github-readme-streak-stats-9m4l0jqst-joao-baptistas-projects.vercel.app?user=joaovicentebaptista&theme=dark" alt="streak stats"/>
     <img width=390 src="https://github-readme-stats-joaovicentebaptista.vercel.app/api?username=joaovicentebaptista&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
     <br/>
