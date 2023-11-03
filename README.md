@@ -9,9 +9,7 @@
   <a href= "mailto:joaobaptista@hotmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="microsoft-outlook logo"  />
   </a>
-   <a href="https://api.whatsapp.com/send?phone=5519991927277" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
-  </a>
+  
 </div>
 <!--
 **JoaoVicenteBaptista/JoaoVicenteBaptista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
