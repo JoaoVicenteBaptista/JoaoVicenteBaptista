@@ -18,10 +18,9 @@
       <img src="https://skillicons.dev/icons?i=azure,aws,vscode,github,git,gherkin,jenkins,kubernetes,kafka,docker" />
       <img src="https://skillicons.dev/icons?i=cs,dotnet,python,javascript,html,css,mysql,postgres,rabbitmq,redis" /><br>
   </div>
-
-  
-  <br/>
   <hr/>
+  <br/>
+  <img src="https://i.imgur.com/edTkyMq.jpg" />
   <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <picture>
@@ -30,12 +29,6 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joaovicentebaptista/joaovicentebaptista/output/github-contribution-grid-snake.svg">
   </picture>
   
-  <br/><br/><br/>
-</div>
-
-<hr/>
-<br/>
-  <img src="https://i.imgur.com/edTkyMq.jpg" />
 </div>
 <!--
 **JoaoVicenteBaptista/JoaoVicenteBaptista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
