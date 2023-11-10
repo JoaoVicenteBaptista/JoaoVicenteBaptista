@@ -21,6 +21,8 @@
   <hr/>
   <br/>
   <img src="https://i.imgur.com/edTkyMq.jpg" />
+  <br/>
+  (created using leonardo.ai)
   <hr/>
   <br/>
   <div align="center">
